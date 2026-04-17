@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Yashwanth Jannaikode and I'm a Software Engineer, from Bellevue, WA</h2>
+<h2 align="left">Hi! My name is Yashwanth Jannaikode and I'm a Software Engineer from Bellevue, WA</h2>
 
 ###
 
