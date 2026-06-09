@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=120&section=header&text=Yashwanth%20Kumar%20Jannaikode&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=140&section=header&text=Yashwanth%20Kumar%20Jannaikode&fontSize=34&fontColor=7aa2f7&fontAlignY=52&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7aa2f7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Cloud-Native;AWS+%26+Azure+Certified+%7C+4+Microsoft+Certs;Building+at+1M%2B+Daily+Requests+%7C+99.9%25+Uptime;AI-Powered+Systems+%7C+Healthcare+%26+Enterprise;Open+to+SWE+%7C+Cloud+%7C+Platform+%7C+DevOps+Roles)](https://git.io/typing-svg)
 
