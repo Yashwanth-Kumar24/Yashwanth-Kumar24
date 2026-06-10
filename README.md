@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=140&section=header&text=Yashwanth%20Kumar%20Jannaikode&fontSize=34&fontColor=7aa2f7&fontAlignY=52&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=140&section=header&text=Yashwanth%20Kumar%20Jannaikode&fontSize=34&fontColor=5d8ef0&fontAlignY=52&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7aa2f7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Cloud-Native;AWS+%26+Azure+Certified+%7C+4+Microsoft+Certs;Building+at+1M%2B+Daily+Requests+%7C+99.9%25+Uptime;AI-Powered+Systems+%7C+Healthcare+%26+Enterprise;Open+to+SWE+%7C+Cloud+%7C+Platform+%7C+DevOps+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5d8ef0&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Cloud-Native;AWS+%26+Azure+Certified+%7C+5+Microsoft+Certs;Building+at+1M%2B+Daily+Requests+%7C+99.9%25+Uptime;AI-Powered+Systems+%7C+Healthcare+%26+Enterprise;Open+to+SWE+%7C+Cloud+%7C+Platform+%7C+DevOps+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +21,7 @@ Software Engineer with **5+ years** building distributed backend systems, cloud-
 
 - 🏗️ **Currently at PalTech (Zimmet Healthcare)** — building microservices, AI summarization pipelines, and cloud infrastructure on AWS ECS/Kubernetes handling production healthcare workloads
 - ⚙️ **Core Focus:** Distributed systems · Microservices · Event-driven architecture · Cloud-native backend · Platform engineering · DevOps
-- ☁️ **AWS + Azure Certified** — 4 Microsoft certs (AZ-104, AZ-204, AZ-400, AZ-900, DP-900) + AWS SAA-C03
+- ☁️ **AWS + Azure Certified** — 5 Microsoft certs (AZ-104, AZ-204, AZ-400, AZ-900, DP-900) + AWS SAA-C03
 - 📄 **Published Researcher** — Springer LNDECT (ICIDCA 2020), 2,172 accesses
 - 🎯 **Open to:** Backend SWE · Platform Engineering · Cloud Engineering · DevOps · Site Reliability
 
@@ -33,9 +33,9 @@ Software Engineer with **5+ years** building distributed backend systems, cloud-
 
 | ⚡ Scale & Availability | 🚀 Performance |
 |:---:|:---:|
-| **1M+ Daily Requests** handled in production | **P95 Latency** reduced **30%** under load |
-| **99.9% Uptime** sustained across distributed services | **DB CPU Utilization** reduced **25%** via query optimization |
-| **$10K/month** AWS cost reduction via log retention + archival | **Deployment Time** cut **40%** with Terraform + GitHub Actions |
+| **1M+ Daily Requests** handled in production | **P95 Latency:** **860ms → 600ms** |
+| **99.9% Uptime** sustained across distributed services | **Query Execution**  **420ms → 273ms** via query optimization |
+| **$10K/month** AWS cost reduction via log retention + archival | **Deployment Cycle:** **45 min → 26 min** via Azure DevOps CI/CD |
 | **MTTR** improved **30–35%** via Prometheus + CloudWatch | **Manual Review** cut **40%** with AI summarization pipelines |
 | **100% SOC 2 & HIPAA** coverage via Vanta | **40% faster** release cycles after monolith decomposition |
 | **10+ microservices** decomposed from legacy monolith | **97% course pass rate** — 100+ students mentored |
@@ -138,7 +138,7 @@ Software Engineer with **5+ years** building distributed backend systems, cloud-
 |:---|
 | **COVID-19 Risk Management: Real-Time Alert Mobile Application** |
 | Springer LNDECT Vol. 59 · ICIDCA 2020 · 2,172 accesses · 2 citations |
-| [![Springer](https://img.shields.io/badge/Read_on_Springer-00838F?style=for-the-badge&logo=bookstack&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-15-7804-5_38) |
+| [![Springer](https://img.shields.io/badge/Read_on_Springer-00838F?style=for-the-badge&logo=bookstack&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-15-9651-3_42) |
 
 </div>
 
